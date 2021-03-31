@@ -1,0 +1,24 @@
+{
+	"BarChartModel": [{
+			"year": "Jan",
+			"financial": "50",
+			"color": "charts.ColorUtil.fromDartColor(Colors.greenAccent)"
+		},
+		{
+			"year": "Jan",
+			"financial": "60",
+			"color": "charts.ColorUtil.fromDartColor(Colors.greenAccent)"
+		},
+		{
+			"year": "Jan",
+			"financial": "90",
+			"color": "charts.ColorUtil.fromDartColor(Colors.greenAccent)"
+		},
+		{
+			"year": "Jan",
+			"financial": "150",
+			"color": "charts.ColorUtil.fromDartColor(Colors.greenAccent)"
+		}
+
+	]
+}
